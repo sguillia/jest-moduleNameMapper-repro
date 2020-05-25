@@ -1,0 +1,11 @@
+{
+  "name": "jest_repro",
+  "version": "0.0.1",
+  "jest": {
+    "moduleNameMapper": {
+      "(.*)": [
+        "$1"
+      ]
+    }
+  }
+}
